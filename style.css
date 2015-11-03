@@ -1,0 +1,52 @@
+a {
+    font-size: 25px;
+    font-weight: bold;
+    background: #e3e3e3;
+    color: #333;
+    padding: 10px;
+    display: block;
+    text-decoration: none;
+    border-radius: 10px;
+    margin: 10px;
+}
+a:hover{
+   color: red;
+}
+div#actions {
+    max-width: 300px;
+    display: none;
+    float: left;
+    text-align: center;
+}
+#form-div{
+    float: right;
+}
+a#hide {
+    max-width: 300px;
+    float: left;
+}
+input,keygen,textarea,select,datalist{
+    min-height: 30px;
+    border-radius: 10px;
+    min-width: 300px;
+    display: block;
+    margin-bottom: 10px;
+}
+label {
+    display: block;
+    padding: 10px;
+    font-weight: bold;
+    font-size: 20px;
+    color: #fff;
+}
+.container {
+    background: seagreen;
+    display: block;
+    width: 600px;
+    margin: auto;
+    overflow: auto;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 5px black;
+    border-top: 50px solid #e3e3e3;
+}
