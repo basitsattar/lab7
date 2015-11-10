@@ -50,3 +50,9 @@ label {
     box-shadow: 1px 1px 5px black;
     border-top: 50px solid #e3e3e3;
 }
+
+button{
+    background: green;
+    padding: 20px;
+    color: #fff;
+}
